@@ -1,5 +1,5 @@
 # star-wars-the-last-parallax
-We're obsessed with Star Wars: The Last Jedi. A LEGO Darth Vader hangs out between desks; we play the soundtrack over our office speakers; and for our Christmas party, we saw The Last Jedi in theaters. We're also obsessed enough to write a Star Wars-themed post on adding parallax with multiple backgrounds to your website using [jQuery Parallax by Ian Lunn](http://flesler.blogspot.com/2007/10/jqueryscrollto.html). Instead of your run of the mill stock photos, our example is filled with BB-8, X-Wings, ATT Walkers, and Master Luke Skywalker as backgrounds. And don't worry: this tutorial is free of spoilers!
+We're obsessed with Star Wars: The Last Jedi. A LEGO Darth Vader hangs out between desks; we play the soundtrack over our office speakers; and for our Christmas party, we saw The Last Jedi in theaters. We're also obsessed enough to write a Star Wars-themed post on adding parallax with multiple backgrounds to your website using [jQuery Parallax by Ian Lunn](https://ianlunn.co.uk/plugins/jquery-parallax/). Instead of your run of the mill stock photos, our example is filled with BB-8, X-Wings, ATT Walkers, and Master Luke Skywalker as backgrounds. And don't worry: this tutorial is free of spoilers!
 
 ## Tutorial
 
